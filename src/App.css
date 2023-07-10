@@ -1,0 +1,35 @@
+.custom-nav-link{
+    font-weight: 400;
+    color: rgb(234, 228, 228)  !important;
+}
+
+@media only screen and (min-width: 600px) {
+.hello-style {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+}
+@media only screen and (min-width: 300px) {
+.hello-style {
+  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+}
+
+.time-display{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.time-display > div{
+    margin: 10px;
+    padding: 20px;
+}
+
+@media only screen and (min-width: 300px) {
+    .time-display>div {
+            margin: 5px;
+            padding: 10px;
+        }
+}
+
