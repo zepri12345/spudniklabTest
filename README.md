@@ -1,9 +1,9 @@
 # spudniklabTest
-this is respository for spudniklab test hello worl using React vite
+- this is respository for spudniklab test hello worl using React vite
 
 # System Requirement
- node js you can download here https://nodejs.org/en
- npm or pnpm o yarn
+- node js you can download here https://nodejs.org/en
+- npm or pnpm o yarn
 
 # Installation & Configuration
 1. clone first use the https link or ssh
