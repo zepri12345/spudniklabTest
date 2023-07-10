@@ -1,7 +1,7 @@
 # spudniklabTest
 this is respository for spudniklab test hello worl using React vite
 
-#System Requirement
+# System Requirement
  node js you can download here https://nodejs.org/en
  npm or pnpm o yarn
 
